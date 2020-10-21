@@ -4,4 +4,4 @@ main.ipynb: 최종본
 
 실습자료_num_ : 과정...
 
-* 실습시 main.py, preprocess.py파일과 data폴더을 하나의 폴더에 저장하고 시행을 해야 함
+* 실습시 main.py, preprocess.py파일과 data폴더을 하나의 폴더에 저장하고 시행을 해야 함(main.ipynb에서 import prerocess를 통해 preprocess.py를 사용)
